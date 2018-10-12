@@ -1,11 +1,11 @@
 ----------------------------------
-Distance read     10 m
+Distance read     100 m
 Voltage read      1000 V
-Total time read   1e-07 s
-Pass time read    1e-09 s
+Total time read   2e-07 s
+step time read    1e-09 s
 Output rate read  10
 ----------------------------------
-Electric field    100 V/m
-Electric Force    1.60218e-17 m/s^2*kg
-Acceleration      1.75882e+13 m/s^2
+Electric field    10 V/m
+Electric Force    1.60218e-18 m/s^2*kg
+Acceleration      1.75882e+12 m/s^2
 ----------------------------------
