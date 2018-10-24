@@ -1,0 +1,7 @@
+----------------------------------
+Distance read     10 m
+Voltage read      1000 V
+Total time read   1e-07 s
+Pass time read    1e-09 s
+Output rate read  1
+----------------------------------

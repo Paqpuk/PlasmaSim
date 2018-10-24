@@ -2,4 +2,4 @@ Distance in m = 10
 Voltage in V = 1000
 Total time in ns = 100
 Time for a single pass in ns = 1
-Output rate = 10
+Output rate = 1
